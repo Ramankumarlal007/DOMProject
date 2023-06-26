@@ -26,12 +26,14 @@ inputText.removeAttribute('disabled');
 
 
 **// to enable  button**
+
 let button = document.querySelector('.main__form-btn');
 
 button.removeAttribute('disabled');
 
 
 **//to put languages in form text and to do submit**
+
 let form = document.querySelector('form');
 
 form.addEventListener('submit', (e) => {e.preventDefault()
