@@ -1,5 +1,8 @@
+**DOMProject 4**
 
-//Applying the background color
+
+**//Applying the background color**
+
 const colorArray = ['#EC9B3B', '#EE5487', '#F6901A', '#82bb30', '#4facff'];
 
 const cards = document.querySelectorAll(".clash-card__unit-stats");
@@ -26,5 +29,6 @@ archer.innerText = cardArray[1];
 const goblin = document.querySelector('.clash-card__level--goblin + div');
 goblin.innerText = cardArray[3];
 
-![project 4 image](image-1.png)
 
+
+![Project 5](https://github.com/Ramankumarlal007/DOMProject/assets/121278104/14a3e8f0-ad7d-48f5-a9e6-38aa5ba43939)
